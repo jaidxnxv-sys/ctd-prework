@@ -12,7 +12,7 @@ print(age,type(age))
 print(height,type(height))
 print(is_student,type(is_student))
 
-#type(var)= identify data type
+
 
 #==========================================
 
