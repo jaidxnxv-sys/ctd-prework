@@ -8,7 +8,7 @@ is_student = True
 #display data
 
 print(name,type(name))
-print(age,type,(age))
+print(age,type(age))
 print(height,type(height))
 print(is_student,type(is_student))
 
