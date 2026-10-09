@@ -23,7 +23,7 @@ print(is_student,type(is_student))
 # collect and display age and name with greeting message
 print("What Is Your Name?")
 name = input()
-#use casting turn str to int?
+
 #print("birth year?")
 #int(input())
 import datetime
@@ -31,11 +31,6 @@ age = datetime.datetime.now().year - int(input("Enter your birth year: "))
 print(f"Hello {name}. You are approximately {age} years old.")
 
 
-
-
-#greeting = "Hello"
-#message = f"{greeting}, {name}!, #youare26yrsold"
-#print(message)
 #====================================================
 
 
